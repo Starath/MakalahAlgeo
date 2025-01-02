@@ -1,2 +1,2 @@
-# MakalahAlgeo
-Tugas Makalah IF2123
+# AlgeoMakalah
+ Implementasi untuk makalah algeo 2024
